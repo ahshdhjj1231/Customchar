@@ -8,8 +8,8 @@ local Tabela = {
 	},
 	
 	CharacterTier = {
-		["Enrico"] = 					{Tier = 1000,Permission = {3108673472}},
-		["DIO"]	=					{Locked = {36651812}},
+		["Enrico"] = 					{Tier = 1000,Permission = {4186736720}},
+		["DIO"]	=					{Locked = {4186736720}},
 		["Madara"]	=				{Locked = {36651812,785068132}},
 		["Koku"]	=				{Locked = {785068132}},
 		["Yori"]	=				{Permission = {36651812,3108673472}},
